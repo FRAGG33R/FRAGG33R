@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Aissam4/Aissam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning programming language
+- 👨🏻‍💻 I'm software engineer student {FUTURE IS LOADING}
+- 📫 How to reach me: 
+     - Discord: Aissvm$#3776
+     - Instgram : Aissvm_2.0
 
-Here are some ideas to get you started:
+-> 📈 My Github status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aissam4&show_icons=true&theme=radical)
+
+-> 👨‍💻 My 42 status
+
+
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=abarchil)
+
+![abarchil's 42 stats](https://badge42.herokuapp.com/api/stats/abarchil?darkmode=true&cursus=42cursus)
