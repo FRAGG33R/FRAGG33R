@@ -2,11 +2,11 @@
 <br />
 <img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
+- Hi there Im Aissam.
+
 -  I’m currently learning **programming language**
 
-- tech hipster
-
-- gifted artist.
+- software engineer **student**
 
 - **opensourcer**
 
