@@ -1,18 +1,29 @@
-### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">
+
 <br />
 <img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
-- Hi there Im Aissam.
+- ### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">  Im Aissam
 
 -  I’m currently learning **programming language**
 
-- software engineer **student**
+- software engineer 🚀 **student**
+
+- Right now, I’m reading about **web development**
 
 - **opensourcer**
 
-- bachelor of computer science
+-  **Ask** me about anything, I am happy to help
 
-- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
+-    <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aissam4&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Aissam4&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam4&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
 
 <br />
 
@@ -21,17 +32,4 @@
     <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
   </a>
 </p>
-
-<!-- Discord: https://discord.gg/2RjkTNK -->
-<!-- Twitch: https://www.twitch.tv/ful1e5 -->
-<div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
-  </a>
-  <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
-  </a>
-<div>
+<details>
