@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">
 <br />
-<img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="ful1e5"/>
+<img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
 - pronouns: **he**/**him**
 
