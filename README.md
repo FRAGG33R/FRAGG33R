@@ -5,6 +5,7 @@
 <img src="github.com/Aissam4/Aissam4/blob/main/lines.svg" width="30px">
 
 - 🌱 I’m currently learning programming language
+-
 - 👨🏻‍💻 I'm software engineer student <FUTURE IS LOADING/>
 - 📫 How to reach me: 
      - Discord: Aissvm$#3776
