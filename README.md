@@ -1,10 +1,9 @@
 ### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">
 
-![Header.png](https://github.com/Aissam4/Aissam4/blob/main/canvas.png)
-
-<img src="">
+![Header.png](https://github.com/Aissam4/Aissam4/blob/main/canvas.png) <img src="github.com/Aissam4/Aissam4/blob/main/lines.svg" width="30px">
 - 🌱 I’m currently learning programming language
-- 👨🏻‍💻 I'm software engineer student {FUTURE IS LOADING}
+-
+- 👨🏻‍💻 I'm software engineer student <FUTURE IS LOADING/>
 - 📫 How to reach me: 
      - Discord: Aissvm$#3776
      - Instgram : Aissvm_2.0
