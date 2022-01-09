@@ -1,21 +1,37 @@
 ### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">
-![Header.png](https://github.com/Aissam4/Aissam4/blob/main/canvas.png)
+<br />
+<img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="ful1e5"/>
 
-- 🌱 I’m currently learning programming language
-- 👨🏻‍💻 I'm software engineer student <FUTURE IS LOADING/>
-- 📫 How to reach me: 
-     - Discord: Aissvm$#3776
-     - Instgram : Aissvm_2.0
+- pronouns: **he**/**him**
 
--> 📈 My Github status
+- tech hipster
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aissam4&show_icons=true&theme=radical)
+- gifted artist.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **opensourcer**
 
--> 👨‍💻 My 42 status
+- bachelor of computer science
 
+- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
 
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=abarchil)
+<br />
 
-![abarchil's 42 stats](https://badge42.herokuapp.com/api/stats/abarchil?darkmode=true&cursus=42cursus)
+<p align="center">
+  <a href="https://kaiz.vercel.app/now-playing?open">
+    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
+  </a>
+</p>
+
+<!-- Discord: https://discord.gg/2RjkTNK -->
+<!-- Twitch: https://www.twitch.tv/ful1e5 -->
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
+    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/ful1e5">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  </a>
+  <a href="https://dev.to/ful1e5">
+    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+<div>
