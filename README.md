@@ -2,7 +2,7 @@
 <br />
 <img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
-- pronouns: **he**/**him**
+-  I’m currently learning **programming language**
 
 - tech hipster
 
