@@ -2,7 +2,7 @@
 
 ![Header.png](https://github.com/Aissam4/Aissam4/blob/main/canvas.png)
 
-<img src="github.com/Aissam4/Aissam4/blob/main/lines.svg">
+<img src="https://github.com/Aissam4/Aissam4/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 - 🌱 I’m currently learning programming language
 - 👨🏻‍💻 I'm software engineer student {FUTURE IS LOADING}
 - 📫 How to reach me: 
