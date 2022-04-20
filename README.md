@@ -17,10 +17,9 @@
 <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aissam4&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Aissam4&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /><br> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam4&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam4&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" /><br>
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aissam4&hide_border=true&theme=nightowl" />
+         <br><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Aissam4&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
 </details>
 <br />
@@ -28,3 +27,8 @@
   <a href="mailto:aissambarchil75@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/il.aissvm"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aissam-barchil-846408211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<h1 align = 'Center'>Watch a 🐍 eating my contributions</h1>
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
