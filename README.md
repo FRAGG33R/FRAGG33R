@@ -2,8 +2,6 @@
 <br />
 <img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
-- ### Hi there <img src="https://github.com/Aissam4/Aissam4/blob/main/wave.gif" width="30px">  Im Aissam
-
 -  I’m currently learning **programming language**
 
 - software engineer 🚀 **student**
