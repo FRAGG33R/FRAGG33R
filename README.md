@@ -15,23 +15,36 @@
 -  **Programming tools** <p align=""> 
    <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      alt="c" width="40" height="40" /> </a>
+   <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+      alt="cplusplus" width="40" height="40" /> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      alt="nodejs" width="40" height="40" /> </a>
+   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      alt="nodejs" width="40" height="40" /> </a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      width="40" height="40" /> </a>
+   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
+    <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"></a>
   <br/>
-    <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aissam4&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" /><br>
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aissam4&hide_border=true&theme=nightowl" />
-         <br><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Aissam4&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    </p>
 </details>
 <br />
 <p align="center">
