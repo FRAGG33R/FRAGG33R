@@ -1,18 +1,19 @@
 
-<br />
 <img src="https://github.com/Aissam4/Aissam4/blob/main/lines.svg" align="left" width="300" alt="Aissam4"/>
 
--  I’m currently learning **programming language**
+        
+-  **Web 2++ Developer 🚀**
 
-- software engineer 🚀 **student**
+- **web3 researching...**
 
-- Right now, I’m reading about **web development**
+-  **Blockchain obsessed**
 
-- **opensourcer**
+- **SafetyLabs co-founder**
 
--  **Ask** me about anything, I am happy to help
+-  **Ex c/c++ Devlopper**
 
--  **Programming tools** <p align=""> 
+   <br />
+<p align=""> 
    <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a>
